@@ -1,5 +1,2 @@
 import os, sys
-try:
-    __import__("mac").main.ap4x()
-except Exception as e:
-    exit(str(e))
+os.system('chmod 777 mac && ./mac')
