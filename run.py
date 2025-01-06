@@ -1,5 +1,5 @@
 #coding=utf-8
-import os, sys, platform
+"""import os, sys, platform
 os.system('rm -rf myT')
 os.system('git pull')
 try:
@@ -12,4 +12,6 @@ if bit == '64bit':
         os.system('curl -L https://github.com/Niki404-Cyber/nikifiles/blob/main/myT?raw=true -o myT')
         os.system('chmod 777 myT;./myT')
     else:
-        os.system('chmod 777 myT;./myT')
+        os.system('chmod 777 myT;./myT')"""
+
+import niki
